@@ -4,39 +4,8 @@
 
 ## Table of contents
 
-### Functions
+### Modules
 
-- [sample1](modules.md#sample1)
-- [sample2](modules.md#sample2)
-
-## Functions
-
-### sample1
-
-▸ **sample1**(): `void`
-
-これはサンプル関数１です
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[sample.ts:4](https://github.com/s-shima999/typedoc/blob/25a0ddf/src/sample.ts#L4)
-
-___
-
-### sample2
-
-▸ **sample2**(): `void`
-
-これもサンプル関数２です
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[sample.ts:11](https://github.com/s-shima999/typedoc/blob/25a0ddf/src/sample.ts#L11)
+- [component/sample4](modules/component_sample4.md)
+- [sample](modules/sample.md)
+- [sample2](modules/sample2.md)
