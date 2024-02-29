@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "name": "dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
