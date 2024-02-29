@@ -1,0 +1,11 @@
+name: 'update doc'
+
+on:
+  pull_request:
+    branches:
+      - main
+    types: [closed]
+
+jobs:
+  private_action:
+    uses: s-shima999/github-actions-test/.github/workflows/doc.yml@main
